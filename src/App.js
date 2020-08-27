@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { Player, ControlBar } from "video-react";
 import styles from "./app.module.css";
-import "node_modules/video-react/dist/video-react.css";
+import "../node_modules/video-react/dist/video-react.css";
 
 class App extends Component {
   constructor(props) {
